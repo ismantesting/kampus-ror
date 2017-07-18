@@ -56,5 +56,6 @@ gem 'materialize-sass'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 
+
 gem 'devise'
 gem "figaro"
